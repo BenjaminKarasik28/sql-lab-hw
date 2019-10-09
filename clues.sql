@@ -66,4 +66,4 @@ SELECT * FROM city WHERE population=91084;
 
 
 
--- She's in ____________________________!
+-- She's in __Santa Monica, CA__________________________!
